@@ -21,7 +21,7 @@ Software Design and Development, Product Design, and Data Modeling.
 
 <a  href="https://unifytwin.com"> <img  align='right'  src="https://unifytwin.com/assets/imgs/UT_logo.png"  height="40"></a>
 
-<h3  align="left">Full Stack Developer</h3>
+<h3  align="left">Technology Lead</h3>
 
 <p  align='left'>📍Bangalore, India | 📅Apr 2021 – Present</p>
 
