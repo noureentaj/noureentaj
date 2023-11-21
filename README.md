@@ -1,65 +1,13 @@
 
   
 
-<h1  align="left">I am Noureen Taj</h1>
-
+<h1  align="left">Hey! I'm Noureen Taj</h1>
+<p align="left">I am a Software Engineer from India!</p>
 <h3  align="left">A polyglot and creative Full-Stack Developer with Multi-domain expertise 🚀</h3>
+I specialize in Python-backend and have worked on a myriad of frameworks and database technologies. I have been building applications that are massively scalable and really impactful, used by Fortune 500 companies.
+I'm presently focused on achieving milestones by contributing to the community via open-source initiatives.
 
-  
-
-<h2  align="left">✏️ Summary</h2>
-
-<p> An experienced professional with proven leadership qualities currently working as Full Stack Developer in an Industrial IoT product organization. I have an experience of over 2 years developing software for industries spread across various verticals. I am proficient in Python, Linux and React and have strong knowledge in DevOps and Android. Adept in fast-paced working environments, I have first-hand expertise in RESTful API design, microservices and system architecture.
-
-</p>
-
-<h2>💡 Core Areas</h2>
-
-Software Design and Development, Product Design, and Data Modeling.
-
-<h2>💼 Professional Experience</h2>
-
-<a  href="https://unifytwin.com"> <img  align='right'  src="https://unifytwin.com/assets/imgs/UT_logo.png"  height="40"></a>
-
-<h3  align="left">Technology Lead</h3>
-
-<p  align='left'>📍Bangalore, India | 📅Apr 2021 – Present</p>
-
-<p>
-Core team member of developing state-of-the-art industry 5.0 application used by fortune 500 companies across the globe. Responsibilities include designing software architecture, data model, mentoring conducting code reviews.
-</p>
-<p>
-<b>Technologies:</b> Python, FastAPI, Flask, MongoDB, Postgres SQL, PowerBI, Linux, Docker, Kubernetes
-</p>
-<br>
-
-<a  href="https://www.knowledgelens.com/"> <img  align='right'  src="https://www.knowledgelens.com/new-launch/assets/img/kl-logo.png"  height="40"></a>
-
-<h3  align="left">Software Engineer </h3>
-
-<p  align='left'>📍Bangalore, India | 📅Jul 2020 - May 2021</p>
-
-<p>
-Part of a consulting organization, developing applications using ReactJS and GraphQL for visualizing health care data. Indulged in Knowledge graphs, using Stardog for analytics.
-</p>
-<p>
-<b>Technologies:</b>ReactJS, Apollo GraphQL, Python, Flask, Stardog
-</p>
-<br>
-
-<a  href="https://www.ibm.com/"> <img  align='right'  src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg"  height="70"></a>
-
-<h3  align="left">Application Developer</h3>
-
-<p  align='left'>📍Bangalore, India | 📅Aug 2019 – Apr 2020</p>
-
-<p>
-Developed applications focused on DBMS.
-</p>
-<p>
-<b>Technologies:</b>R-DBMS, PL/SQL, Linux, Kubernetes
-</p>
-  
+I currently work as a Technology Lead developing Industrial IoT Solutions in the Product Engineering Team of [Knowledge Lens](www.knowledgelens.com).
 
 <h2>🔧 Top Skills</h2>
 
