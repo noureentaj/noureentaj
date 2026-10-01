@@ -1,24 +1,109 @@
+# Noureen Taj
 
-  
+### Product Owner · Technical Architect · Technology Lead
 
-<h1  align="left">Hey! I'm Noureen Taj</h1>
-<p align="left">I am a Software Engineer from India!</p>
-<h3  align="left">A polyglot and creative Full-Stack Developer with Multi-domain expertise 🚀</h3>
-I specialize in Python-backend and have worked on a myriad of frameworks and database technologies. I have been building applications that are massively scalable and really impactful, used by Fortune 500 companies.
-I'm presently focused on achieving milestones by contributing to the community via open-source initiatives.
+I build **enterprise and industrial software products** where product thinking, engineering and architecture meet.
 
-I currently work as a Technology Lead developing Industrial IoT Solutions in the Product Engineering Team of [Knowledge Lens](www.knowledgelens.com).
+My background spans software engineering, system architecture, engineering leadership and product ownership — from shaping what gets built to understanding how it should work under the hood.
 
-<h2>🔧 Top Skills</h2>
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+## What I work across
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+**Product · Architecture · Engineering · Data · Cloud · Delivery**
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+I like working in the space between **business problems and technical solutions** — turning complex requirements into products that are practical to build, scale and operate.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+---
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Technology
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+I work across multiple layers of the technology stack, with experience spanning:
+
+**Product & Delivery**  
+Product strategy · Discovery · Roadmaps · Backlogs · Requirements · Agile delivery
+
+**Architecture & Engineering**  
+System design · Distributed systems · APIs · Microservices · Integrations · Scalable platforms
+
+**Software Development**  
+Backend · Frontend · Services · Data-intensive applications · Application design
+
+**Data & Analytics**  
+Data platforms · Databases · Data pipelines · Analytics · Visualisation · IoT data
+
+**Cloud & Platform**  
+Cloud-native systems · Containers · Kubernetes · CI/CD · Infrastructure · Observability
+
+**Industrial Technology**  
+Industrial IoT · Manufacturing · Production analytics · Operational systems
+
+---
+
+## 🏭 Industrial Technology
+
+A large part of my work sits around **industrial data and operational analytics**.
+
+I've worked on platforms handling **millions of IoT data points every day**, turning raw operational data into analytics, visualisations and product capabilities.
+
+```text
+Industrial Data
+      ↓
+   Platform
+      ↓
+ Analytics
+      ↓
+ Product
+      ↓
+ Operational Decisions
+```
+
+---
+
+## 🧠 My Engineering Perspective
+
+I don't see product, architecture and engineering as separate worlds.
+
+A product decision can have architectural consequences.
+
+An architectural decision can shape the product.
+
+And sometimes the simplest technical solution is the best product decision.
+
+That's the space I enjoy working in.
+
+---
+
+## 🚀 Currently Exploring
+
+**AI × Product Engineering**
+
+Exploring how AI and agentic workflows can improve the way products are discovered, designed, built and shipped.
+
+Not interested in AI for the sake of AI.
+
+More interested in **where it actually changes the workflow or creates something useful.**
+
+---
+
+## 🔭 Areas I'm Interested In
+
+`Product Engineering` · `Industrial IoT` · `Data Platforms`  
+`Cloud Architecture` · `Enterprise Systems` · `Analytics`  
+`AI-enabled Products` · `Technical Product Management`
+
+---
+
+## 👋 Connect
+
+I'm always interested in conversations around **technology, products, architecture and building useful things.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noureen%20Taj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noureentaj/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-noureentaj-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/noureentaj/)
+
+---
+
+### `Product × Technology × Delivery`
+
+*Build the right thing. Build it well.*
